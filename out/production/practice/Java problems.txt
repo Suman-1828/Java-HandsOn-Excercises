@@ -1,0 +1,66 @@
+Here are some Java array problems, categorized from beginner to advanced levels:
+
+### Beginner Level
+1. **Sum of Array Elements:**  
+   Write a Java program to calculate the sum of all elements in an array of integers.
+
+2. **Reverse an Array:**  
+   Write a Java program to reverse the elements of a given array of integers.
+
+3. **Find Maximum and Minimum Element:**  
+   Write a Java program to find the maximum and minimum elements in an array of integers.
+
+4. **Array Rotation:**  
+   Write a Java program to rotate an array to the right by a given number of positions.
+
+5. **Check for Duplicates:**  
+   Write a Java program to check if an array contains any duplicate elements.
+
+6. **Count Occurrences of Element:**  
+   Write a Java program to count the number of occurrences of a specific element in an array.
+
+### Intermediate Level
+7. **Merge Two Sorted Arrays:**  
+   Write a Java program to merge two sorted arrays into one sorted array.
+
+8. **Find the Second Largest Element:**  
+   Write a Java program to find the second largest element in an array.
+
+9. **Remove Duplicates from Sorted Array:**  
+   Write a Java program to remove duplicates from a sorted array, modifying the array in place.
+
+10. **Find Pairs with Given Sum:**  
+    Write a Java program to find all pairs of elements in an array whose sum is equal to a given number.
+
+11. **Find Missing Number in Array:**  
+    Given an array of n-1 integers in the range of 1 to n, find the missing number.
+
+12. **Rearrange Array in Alternating Positive and Negative Numbers:**  
+    Write a Java program to rearrange an array such that positive and negative numbers alternate.
+
+13. **Sort an Array of 0s, 1s, and 2s:**  
+    Write a Java program to sort an array consisting of 0s, 1s, and 2s without using any sorting algorithm.
+
+### Advanced Level
+14. **Find Longest Subarray with Sum Zero:**  
+    Write a Java program to find the length of the longest subarray whose sum is zero.
+
+15. **Find Maximum Product Subarray:**  
+    Write a Java program to find the subarray with the maximum product of its elements.
+
+16. **Find Duplicates in O(n) Time and O(1) Space:**  
+    Given an array of n integers where each element is between 0 and n-1, write a Java program to find all the duplicate numbers using constant space.
+
+17. **Find K-th Smallest Element in an Unsorted Array:**  
+    Write a Java program to find the K-th smallest element in an unsorted array using a quick-select algorithm.
+
+18. **Count Inversions in an Array:**  
+    Write a Java program to count the number of inversions in an array (where arr[i] > arr[j] and i < j).
+
+19. **Find Maximum Sum of a Subarray (Kadane’s Algorithm):**  
+    Write a Java program to find the maximum sum of a contiguous subarray using Kadane’s algorithm.
+
+20. **Trapping Rain Water Problem:**  
+    Write a Java program to solve the "Trapping Rain Water" problem, where given an array representing heights of bars, you calculate how much rainwater can be trapped after raining.
+
+These problems cover a range of difficulty levels, helping you practice and master array operations in Java.
